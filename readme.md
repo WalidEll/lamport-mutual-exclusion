@@ -1,5 +1,5 @@
 # This Project is an implementation of Lamport algorithm using Corba
-##Lamport Algorithm:
+## Lamport Algorithm:
 LA1: To request entry into its CS, a process sends a time-stamped request to every other
 process in the system and also enters the request in its local Q.  
 
