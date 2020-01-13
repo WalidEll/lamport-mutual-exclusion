@@ -1,9 +1,7 @@
 package me.walid;
 
-import com.sun.corba.se.spi.activation.ServerHelper;
 import lamport.Lamport;
 import lamport.LamportHelper;
-import lamport.LamportPOA;
 import org.omg.CORBA.ORB;
 import org.omg.CosNaming.NameComponent;
 import org.omg.CosNaming.NamingContextExt;

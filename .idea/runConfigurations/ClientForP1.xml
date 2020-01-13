@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="ClientForP1" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="me.walid.Client" />
     <module name="lamport" />
-    <option name="PROGRAM_PARAMETERS" value="-ORBInitialPort 1050 -ORBInitialHost localhost" />
+    <option name="PROGRAM_PARAMETERS" value="1 -ORBInitialPort 1050 -ORBInitialHost localhost" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="me.walid.*" />
