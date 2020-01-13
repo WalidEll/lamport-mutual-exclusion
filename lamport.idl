@@ -1,0 +1,12 @@
+module lamport{
+        interface Lamport {
+                void sendReq(in long p,in long clock);
+                void sendAck(in long p,in long clock);
+                void sendRel(in long p,in long clock);
+                void acceptReq(in long p,in long clock);
+                void acceptAck(in long p,in long clock);
+                void acceptRel(in long p,in long clock);
+                void criticalSessionRequest();
+                void criticalSessionRealise();
+        };
+};

@@ -1,83 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6cf85c5-1f80-470d-a8f0-e3dc997e62ab" name="Default Changelist" comment="" />
+    <list default="true" id="c6cf85c5-1f80-470d-a8f0-e3dc997e62ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamport.idl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/walid/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/walid/LamportIml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/walid/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lamport.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/walid/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WFUX6IrGCK86JIaeSefPtVHgtV" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="me.walid.Main" />
-      <module name="untitled104" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pro2">
+    <list>
+      <item itemvalue="Application.Pro2" />
+      <item itemvalue="Application.Pro1" />
+      <item itemvalue="Application.Pro0" />
+      <item itemvalue="Application.Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Pro0" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -101,7 +81,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578744872242</updated>
+      <workItem from="1578744877767" duration="18243000" />
+      <workItem from="1578926755244" duration="682000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578928172939">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="304" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.980@0.23.1680.980" timestamp="1578928172939" />
+    <state x="653" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1578760506500">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="653" y="229" key="#com.intellij.ide.util.MemberChooser/0.23.1680.980@0.23.1680.980" timestamp="1578760506500" />
+    <state width="1638" height="187" key="GridCell.Tab.0.bottom" timestamp="1578831131300">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1578831131300" />
+    <state width="1638" height="187" key="GridCell.Tab.0.center" timestamp="1578831131299">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1578831131299" />
+    <state width="1638" height="187" key="GridCell.Tab.0.left" timestamp="1578831131298">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1578831131298" />
+    <state width="1638" height="187" key="GridCell.Tab.0.right" timestamp="1578831131299">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="187" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1578831131299" />
+    <state x="517" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578926760945">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="517" y="345" key="com.intellij.ide.util.TipDialog/0.23.1680.980@0.23.1680.980" timestamp="1578926760945" />
+    <state x="698" y="437" key="extract.method.dialog" timestamp="1578759454556">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="698" y="437" key="extract.method.dialog/0.23.1680.980@0.23.1680.980" timestamp="1578759454556" />
   </component>
 </project>

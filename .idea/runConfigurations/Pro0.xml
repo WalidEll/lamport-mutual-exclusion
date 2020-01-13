@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Pro0" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="me.walid.Server" />
+    <module name="lamport" />
+    <option name="PROGRAM_PARAMETERS" value="0 -ORBInitialPort 1050 -ORBInitialHost localhost" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
